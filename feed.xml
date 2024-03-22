@@ -3,10 +3,30 @@
     <title>L &amp; D Display</title>
     <link href="https://danielhkx/.github.io/feed.xml" rel="self" />
     <link href="https://danielhkx/.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-03-22T15:43:52+08:00</updated>
     <author>
         <name>Daniel</name>
     </author>
     <id>https://danielhkx/.github.io</id>
 
+    <entry>
+        <title>l&amp;d</title>
+        <author>
+            <name>Daniel</name>
+        </author>
+        <link href="https://danielhkx/.github.io/landd.html"/>
+        <id>https://danielhkx/.github.io/landd.html</id>
+
+        <updated>2024-03-22T15:43:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                    all the doc are tested
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>all the doc are tested</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
